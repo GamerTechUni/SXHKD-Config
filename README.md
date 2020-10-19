@@ -15,5 +15,6 @@ mv sxhkd ~/.config
 If you already have a sxhkd folder, type
 
 cd sxhkd
+
 mv sxhkdrc ~/.config/sxhkd
 
