@@ -4,6 +4,7 @@ This is my SXHKD config for BSPWM.
 Instructions:
 
 1. Open the terminal, then type:
+
 git clone https://github.com/GamerTechUni/SXHKD-Config.git && cd SXHKD-Config
 
 
